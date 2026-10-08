@@ -1,0 +1,5 @@
+resource_group_name  = "devops-iac-rg"
+location             = "Canada Central"
+storage_account_name = "devopsiacYOURUNIQUEID"
+container_name       = "data"
+environment          = "dev"
